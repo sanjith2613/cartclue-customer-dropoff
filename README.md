@@ -1,5 +1,5 @@
-# 🛒 CartClue — Customer Drop-Off Detective
-
+# 🛒 CartClue — Customer Drop-Off Detective https://cartclue-growth-investigator.streamlit.app/
+**The public dashboard will initially show simulated data, because the local real GA4 CSV wasn't included in the public repository. That's intentional. Your real historical analysis remains documented separately.**
 **Tagline:** Find where shoppers stop progressing, what changed, and what to investigate next.
 
 *A free, beginner-friendly but recruiter-presentable data science project. Python • pandas • BigQuery SQL • SciPy statistics • scikit-learn anomaly detection • Plotly • Streamlit • pytest • GitHub Actions.*
